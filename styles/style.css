@@ -1,0 +1,38 @@
+html{
+	font-size: 10px;
+	font-family: 'Roboto', sans-serif;
+	background-color: rgba(63, 191, 191, 0.15);
+	
+}
+h1{
+	margin: 0;
+	padding: 20px 0;
+	font-size: 60px;
+	text-align: center;
+	color: rgba(12, 38, 38, 0.68);
+}
+p,li{
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+#imageContainer{
+	
+}
+#mainPhoto{
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin: 0 auto;
+}
+#intro{
+	text-align: center;
+	color: rgba(12, 38, 38, 0.41);
+	margin: 0 auto;
+	padding: 20px 20px 20px 20px;
+}
+
+#helloButton{
+	margin: 0 auto;
+}
